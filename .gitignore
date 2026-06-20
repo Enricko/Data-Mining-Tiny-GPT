@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+
+# generated tokenizers
+tok_*.model
+tok_*.vocab
